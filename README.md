@@ -993,3 +993,10 @@ Dukaan360 is a **complete multi-tenant POS system** with:
 - ✅ **Multi-language** — English, Urdu (RTL), Arabic
 - ✅ **Mobile responsive** — works on all devices
 - ✅ **PWA ready** — scaffolding for offline/installable app
+
+
+---
+
+## Author
+
+Built by **[Shafin Zaman](https://www.shafinzaman.dev)** (Shafin Uz Zaman), Senior AI Engineer. Its successor, Karobar, is live: [case study](https://www.shafinzaman.dev/work/karobar). More of my work: [shafinzaman.dev/work](https://www.shafinzaman.dev/work).
